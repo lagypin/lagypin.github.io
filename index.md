@@ -1,13 +1,6 @@
- ---
-layout: null
-title: Main
----
-
-<!DOCTYPE html>
-<html>
 <body>
  
-<h1>This is an example of heading 1</h1>
+# This is an example of heading 1
 <p>Here are some paragraphs.</p>
   <p>Look! Another paragarph.</p>
   <p> A third paragraph! Oh my! </p>
